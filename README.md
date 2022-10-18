@@ -94,4 +94,4 @@ https://user-images.githubusercontent.com/24560160/187013816-6630dff6-7ab2-447d-
 
 音乐作品版权，全部归于李志先生所有，本人仅从互联网搜集资源进行合并整理，已发送邮件告知李志先生，若邮件回复不允许，会立即删除下线。
 
-[MIT](./LICENSE) & Copyright © 1998 - 2022 LiZhi. All Rights Reserved
+MIT & Copyright © 1998 - 2022 LiZhi. All Rights Reserved
