@@ -81,6 +81,8 @@ https://user-images.githubusercontent.com/24560160/187013816-6630dff6-7ab2-447d-
 
 ## 参考链接
 
+这里有一些其他歌迷朋友做的音乐播放器，也很错！
+
 - https://www.lizhi334.com/
 - https://github.com/GoldSubmarine/lizhi
 
